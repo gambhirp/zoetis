@@ -1,0 +1,6 @@
+Transcript_File,Clinic_Name,Contact_Name,Product_Introduced,Dosage_Chart_Requested,Follow_Up
+transcript_1.txt,Wallace and Nash Veterinarian Galway,Dr. Lauren Conners,Apaquel,True,next Tuesday
+transcript_2.txt,,,,False,
+transcript_3.txt,,,,False,
+transcript_4.txt,,,our,False,
+transcript_5.txt,,,,False,
